@@ -1,0 +1,11 @@
+@import url(http://fonts.googleapis.com/css?family=Muli);
+
+body{
+    font-family: Muli;
+    font-size: 20px !important;
+}
+
+.heading, .feature__list h1, .feature__list h2, .system-post h1, .notification-post h1, .heading--large, .heading--normal, .system-post h2, .notification-post h2, .notification-post p, .bolded-post p, .delete__dialog h2, .searchbar__field{
+	 font-family: Muli !important;
+    font-size: 20px !important;
+}
