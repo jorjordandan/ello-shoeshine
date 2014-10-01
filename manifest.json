@@ -1,7 +1,8 @@
 {
   "name": "ello shoeshine",
-  "version": "0.0.3",
+  "version": "0.1.2",
   "manifest_version": 2,
+  "web_accessible_resources": ["fonts/*.*"],
   "description": "Shoe shine for ello",
   "homepage_url": "http://jordandavis.ca/",
   "icons": {
@@ -20,6 +21,9 @@
       ],
       "css": [
         "src/inject/inject.css"
+      ],
+       "js": [
+        "src/inject/inject.js"
       ]
     }
   ]
